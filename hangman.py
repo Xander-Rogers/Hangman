@@ -4,10 +4,10 @@
 # Author: Alexander Rogers
 # Contact: arogers23@email.davenport.edu
 
-# Program name: arogers23_midterm_hangman.py
+# Program name: hangman.py
 """
 Example of how a Python programs can use modules, classes, functions, file handling, and methods can be used to
-create the game of Hangman. The project uses the tkinker module in the graphics file, which was created by
+create the game of Hangman. The project uses the tkinter module in the graphics file, which was created by
 John Zelle.
 """
 
