@@ -1,9 +1,9 @@
 # Hangman
 Hangman Game w/ Tkinter
 
-In order for this game to run, the tkinter library will need to be installed, this can be done through using pip, and executing pip install tk
+In order for this game to run, the tkinter library will need to be installed, this can be done through using pip, and executing pip install tk in 
 
-in the commandline/terminla, or by downloading the source code from here: https://github.com/python/cpython/tree/3.10/Lib/tkinter. 
+the commandline/terminal, or by downloading the source code from here: https://github.com/python/cpython/tree/3.10/Lib/tkinter. 
 
 For a full description of the game, please view the README.txt file, which can be accessed within the game, as well as through a text editor.
 
