@@ -15,4 +15,6 @@ thoughts.
 
 - Xander Rogers
 
-Latest Update- instr() function updated with smaller window for better compatability across screen sizes, and table of contents removed from README.txt
+Latest Update- instr() function updated with smaller window for better compatability across screen sizes, and table of contents removed from 
+
+README.txt
