@@ -1,18 +1,11 @@
 HANGMAN THE GAME: Developed By Xander Rogers, Graphics Engine by John Zelle
 
-Table of Contents:
----> Getting started <---
----> Playing the game <---
----> Winning & Losing <---
----> Menu functions <---
----> Conclusions/Questions <---
-
 Getting started:
 The game of Hangman is a relatively simplistic game. The player who is guessing a word attempts to find the correct
 word by consecutively guessing letters which could be in the word. The game is over and the player wins if the word
 is found. Otherwise, the  player is penalized by the addition of an element to the Hangman diagram (Such as right
 arm, left arm, head, body, etc.). The player loses if he or she makes enough inaccurate guesses to reach the limit
-(in this version there are 7 allowable guesses). However, before the diagram is completed, the guesser can win by
+(in this version there are 7 allowable guesses. However, before the diagram is completed, the guesser can win by
 guessing all of the letters that occur in the word and thereby completing the word.
 
 Playing the game:
