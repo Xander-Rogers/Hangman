@@ -190,7 +190,7 @@ class Game:
                 static.
         """
         win_width = 800
-        win_height = 900
+        win_height = 800
 
         # Chooses the file to display as text in the window.
         file = open('README.txt')
@@ -199,7 +199,7 @@ class Game:
         # Initialize the INSTRUCTIONS window.
         win = GraphWin("INSTRUCTIONS", win_width, win_height)
         win.setCoords(0, 0, win_width, win_height)
-        win_message = Text(Point(win_width / 2, 450), text)
+        win_message = Text(Point(win_width / 2, 400), text)
         win_message.setStyle('bold')
         win_message.setSize(10)
         win_message.draw(win)
