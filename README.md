@@ -14,3 +14,5 @@ This project is not a perfect example of how to build a hangman game, however us
 thoughts.
 
 - Xander Rogers
+
+Latest Update- instr() function updated with smaller window for better compatability across screen sizes, and table of contents removed from README.txt
