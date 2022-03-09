@@ -375,7 +375,7 @@ class Game:
                     if/elif/else/continue
                         The iteration of if statements is the processing logic behind the recording the guesses by
                         the user, determining if the letter has already been guessed, if the guess is indeed in the
-                        game word, and if the game word has been found through successful guess atempts. If the game
+                        game word, and if the game word has been found through successful guess attempts. If the game
                         is won by the user, victory is set to true, and confirmation is drawn to the screen. Else,
                         the user has run out of guess attempts, and fails the game.
                     if/elif/else/for
