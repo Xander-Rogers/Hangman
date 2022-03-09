@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>hangman.Game</OriginalElement>
+  <nodes>
+    <node x="-490.1306532663316" y="255.37185929648246">hangman.Game</node>
+    <node x="-111.29899497487418" y="255.37185929648246">typing.Hashable</node>
+    <node x="-155.79899497487418" y="373.0073943148858">object</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="object" target="typing.Hashable" relationship="INTERFACE">
+      <point x="0.0" y="-270.5" />
+      <point x="-41.79899497487418" y="341.55332171144676" />
+      <point x="-43.23288935447033" y="341.55332171144676" />
+      <point x="-1.433894379596154" y="26.727389811525313" />
+    </edge>
+    <edge source="hangman.Game" target="object" relationship="REALIZATION">
+      <point x="0.0" y="-149.5" />
+      <point x="-348.1306532663316" y="672.0" />
+      <point x="-41.79899497487418" y="672.0" />
+      <point x="0.0" y="270.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.5417322834645666" showDependencies="false" x="4.557484658095859" y="578.34011627907" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+
